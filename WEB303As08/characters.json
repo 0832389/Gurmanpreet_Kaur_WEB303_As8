@@ -1,0 +1,52 @@
+[
+    {
+      "firstName": "Harry",
+      "lastName": "Potter",
+      "age": 17,
+      "occupation": "Wizard",
+      "show": "Harry Potter Series"
+    },
+    {
+      "firstName": "Hermione",
+      "lastName": "Granger",
+      "age": 18,
+      "occupation": "Witch",
+      "show": "Harry Potter Series"
+    },
+    {
+      "firstName": "Arya",
+      "lastName": "Stark",
+      "age": 16,
+      "occupation": "Assassin",
+      "show": "Game of Thrones"
+    },
+    {
+      "firstName": "Frodo",
+      "lastName": "Baggins",
+      "age": 33,
+      "occupation": "Hobbit",
+      "show": "The Lord of the Rings"
+    },
+    {
+      "firstName": "Sherlock",
+      "lastName": "Holmes",
+      "age": 42,
+      "occupation": "Consulting Detective",
+      "show": "Sherlock"
+    },
+    {
+      "firstName": "Elizabeth",
+      "lastName": "Bennet",
+      "age": 20,
+      "occupation": "Gentlewoman",
+      "show": "Pride and Prejudice"
+    },
+    {
+      "firstName": "Jon",
+      "lastName": "Snow",
+      "age": 23,
+      "occupation": "Lord Commander",
+      "show": "Game of Thrones"
+    }
+  ]
+  
